@@ -44,7 +44,7 @@ Tabela
 1.  *itálico*
 1.  _itálico_
 1.  ___itálico negrito___
-1. ˜˜riscado˜˜
+1. ~~Texto tachado~~
 
 > Listas
 - Primeiro

@@ -85,30 +85,10 @@ ___
 
 Este texto possui uma anotação de rodapé.[^1]
 
-> [!NOTE]
-> Information the user should notice even if skimming.
-
-> [!TIP]
-> Optional information to help a user be more successful.
-
-> [!IMPORTANT]
-> Essential information required for user success.
-
-> [!CAUTION]
-> Negative potential consequences of an action.
-
-> [!WARNING]
-> Dangerous certain consequences of an action.
-
-!Esse é um texto de Aviso
-!!Esse é um texto de Erro
-!!!Esse é um texto de Informaçãos
-!!!!Esse é um texto de Sucesso
-
-Este é um {c:red}texto vermelho.{/c}
-Este é um {c:#B81365}texto colorido com hexadecimal{/c} 
-{c:green}[fa=check-circle /]{/c} Meu Ícone Verde
-{c:red}[fa=times-circle /]{/c} Meu Ícone Vermelho
+<img src="markups/info-markup.svg">
+<img src="markups/success-markup.svg">
+<img src="markups/warning-markup.svg">
+<img src="markups/error-markup.svg">
 
 ---
 

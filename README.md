@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="YJhHiNFtuHtsjezd8HeC3Td-kKEyHIU2ZhEFACzrxSU" />
 # Inslatação do SO Oracle Linux Server 7.9
 
 Siga os passos abaixo para instalar o ambiente de **homologação Linux**.\

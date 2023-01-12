@@ -1,4 +1,5 @@
 <meta name="google-site-verification" content="YJhHiNFtuHtsjezd8HeC3Td-kKEyHIU2ZhEFACzrxSU" />
+
 # Experiência
 
 Independente do tamanho e complexidade dos sistemas de TI, todos sempre nós proporciona grandes aprendizados e desafios. Um profissional de TI precisa estar diariamente se preparando para novos desafios, e confiante que a experiência junto com a eficiência nos levarão a patamares ainda maiores. Nos dias de hoje, temos que ser ainda mais ágeis, efetivos, proativo e comprometido.

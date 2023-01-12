@@ -1,4 +1,8 @@
+<html>
+<head>
 <meta name="google-site-verification" content="YJhHiNFtuHtsjezd8HeC3Td-kKEyHIU2ZhEFACzrxSU" />
+</head>
+</html>
 
 # Experiência
 
